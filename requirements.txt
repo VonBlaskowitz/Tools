@@ -7,3 +7,4 @@ langchain
 chromadb
 pytest
 boto3
+cryptography>=3.1
